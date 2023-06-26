@@ -5,6 +5,18 @@
       "bundler": "metro"
     },
     "name": "react-native-jobs",
-    "slug": "react-native-jobs"
+    "slug": "job-search",
+    "extra": {
+      "eas": {
+        "projectId": "57ad5928-d5c8-4086-a5f0-0cbae24de341"
+      }
+    },
+    "owner": "osaze",
+    "android": {
+      "package": "com.osaze.jobsearch"
+    },
+    "ios": {
+      "bundleIdentifier": "com.osaze.jobsearch"
+    }
   }
 }
